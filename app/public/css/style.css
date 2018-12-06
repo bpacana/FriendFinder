@@ -1,0 +1,44 @@
+.profile-pic {
+    max-width: 200 !important;
+}
+
+form {
+    margin: 25px;  
+}
+
+label, a {
+    background-color: rgba(255, 255, 255, 0.897);  
+    padding: 3px;
+}
+
+html, body { 
+    background: url(http://wallpapershdnow.com/images/tv-shows/fantasy/game-of-thrones/game-of-thrones-wallpaper-1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+
+.badge {
+    height: 500;
+}
+.title-card {
+    text-align: center;
+    color: rgb(129, 9, 199);
+}
+
+.sub-title {
+    text-align: center;
+    color: rgb(64, 226, 49);
+}
+
+.link-wrap {
+    text-align: center;
+}
+
+.wrapper {
+    background-color: rgba(255, 255, 255, 0.897);   
+}
+
