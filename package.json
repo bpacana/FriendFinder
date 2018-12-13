@@ -9,14 +9,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/bpzimmerman/Friend-Finder.git"
+      "url": "git+https://github.com/bpacana/Friend-Finder.git"
     },
     "author": "BZ",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/bpzimmerman/Friend-Finder/issues"
+      "url": "https://github.com/bpacana/Friend-Finder/issues"
     },
-    "homepage": "https://github.com/bpzimmerman/Friend-Finder#readme",
+    "homepage": "https://github.com/bpacana/Friend-Finder#readme",
     "dependencies": {
       "body-parser": "^1.18.2",
       "express": "^4.16.3"
